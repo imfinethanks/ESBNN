@@ -32,7 +32,7 @@ bash src/script/BNext-Tiny/run_distributed_on_disk_a6k5_AdamW_Curicullum_Tiny_as
 |Method |OPs (10^8)|Top-1 Acc  |Pretrained Models| 
 |:----:    | :---: | :---:  | :---:               |
 |BNext-T| 0.88 |72.4 % |  [BNext-T](https://drive.google.com/file/d/1CJ0XOEhoHuNe-tDYJaAOd1j4YyNXuyas/view?usp=sharing)                  |  
-|ES-BNext-T| 0.89 |72.4 % |  [ES-BNext-T](https://pan.seu.edu.cn:443/link/F084D724533B054E64ED1FE9B8CC1459)                  |  
+|ES-BNext-T| 0.89 |75.2 (+2.8) % |  [ES-BNext-T](https://pan.seu.edu.cn:443/link/F084D724533B054E64ED1FE9B8CC1459)                  |  
 
 ### 4. Reference
 If you find our code useful for your research, please cite our paper as follows:
